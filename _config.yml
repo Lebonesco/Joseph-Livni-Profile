@@ -1,12 +1,12 @@
 # Site settings
 title: Portfolio
-description: Has stuff about me
+description: a site about Joseph Livni
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Joseph Livni
-user_description: I'm a Software Engineer, graduating from the University of Oregon in December 2018. Growing up with Legos, I've always had a passion for building. Computer science has allowed me to continue this passion combined wiith the feeling of pride that comes with introducing  new tech into the world. I like ultimate frisbee, Oregon in the Fall, and IPAs.
+user_description: I'm a Software Engineer, graduating from the University of Oregon in December 2018. I've always had a passion for building and problem solving. Computer science has allowed me to continue this passion, combined with the feeling of pride that comes with introducing new tech into the world. Since, I began my journy into the world of computer science, I've worked on numerous professional teams, working on code that has included frontend, backend, and internal tools to name a few. Besides keeping up on the latest tech and financial news, I like ultimate frisbee, Oregon in the Fall, and IPAs.
 user_title: Software Developer
 email: j.d.livni@gmail.com
 github_username:  Lebonesco
