@@ -1,0 +1,45 @@
+# medium posts
+
+- content: "The cache is one of the greatest innovations of computer
+    science \u011F\u0178\u201D\xA5\u011F\u0178\u201D\xA5\u011F\u0178\u201D\xA5.
+    It significantly reduces w"
+  date: Mon, 07 Jan 2019 16:16:01 GMT
+  link: https://hackernoon.com/build-a-go-cache-in-10-minutes-c908a8255568?source=rss-d24b5a950413------2
+  title: Build a Go Cache in 10 Minutes
+- content: !!python/str "Compilers are awesome! \u011F\u0178\u201D\xA5 \u011F\u0178\
+    \u201D\xA5 \u011F\u0178\u201D\xA5 They combine theory and application and touch\
+    \ on a lot of software "
+  date: Mon, 07 Jan 2019 14:54:04 GMT
+  link: https://medium.freecodecamp.org/write-a-compiler-in-go-quick-guide-30d2f33ac6e0?source=rss-d24b5a950413------2
+  title: 'How to write a compiler in Go: a quick guide'
+- content: 'The inspiration for this post came from a project at work. I was building
+    a service that required the comparison of two '
+  date: Fri, 28 Dec 2018 12:16:00 GMT
+  link: https://hackernoon.com/create-a-go-json-parser-batteries-included-9d02d09fe508?source=rss-d24b5a950413------2
+  title: 'Create a Go Json Parser: Batteries Included'
+- content: !!python/str "Thanks! Working on creating a compiler that converts a custom\
+    \ language to C and this was really\xC2\_helpful."
+  date: Sun, 25 Nov 2018 21:03:52 GMT
+  link: https://medium.com/@j.d.livni/thanks-working-on-creating-a-compiler-that-converts-a-custom-language-to-c-and-this-was-really-a174cccd43eb?source=rss-d24b5a950413------2
+  title: !!python/str "Thanks! Working on creating a compiler that converts a custom\
+    \ language to C and this was really\u2026"
+- content: !!python/str "Pipelines are awesome and offer huge performance benefits!\
+    \ Whether you\xE2\u20AC\u2122re new to Go, pipelines, or both, you shou"
+  date: Thu, 18 Oct 2018 19:35:19 GMT
+  link: https://medium.com/@j.d.livni/understanding-go-pipelines-in-5-minutes-2906a5c41496?source=rss-d24b5a950413------2
+  title: Understanding Go Pipelines in 5 minutes
+- content: At my job I was building a service in Go that needed to process a lot of
+    user requests quickly. By encapsulating it with
+  date: Mon, 08 Oct 2018 00:02:05 GMT
+  link: https://medium.com/@j.d.livni/write-a-go-worker-pool-in-15-minutes-c9b42f640923?source=rss-d24b5a950413------2
+  title: Write a Go Worker Pool in 15 minutes
+- content: Instead of prepping for interviews I decided to procrastinate and write
+    about a cool piece of code, inspired by a simila
+  date: Fri, 31 Aug 2018 23:07:21 GMT
+  link: https://medium.com/@j.d.livni/create-a-load-bar-in-go-f158837ff4c4?source=rss-d24b5a950413------2
+  title: Create a load bar in Go
+- content: !!python/str "People have strong opinions about Go, both positive and negative.\
+    \ However, like any tool it\u2019s about choosing the right"
+  date: Sun, 26 Aug 2018 05:31:32 GMT
+  link: https://medium.com/@j.d.livni/create-a-go-api-in-5-minutes-part-1-7d371089d742?source=rss-d24b5a950413------2
+  title: Create a Go API in 5 minutes Part 1
