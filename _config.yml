@@ -6,7 +6,8 @@ description: a site about Joseph Livni
 
 # User settings
 username: Joseph Livni
-user_description: I'm a Software Engineer, graduating from the University of Oregon in December 2018. I've always had a passion for building and problem solving. Computer science has allowed me to continue this passion, combined with the feeling of accomplishment that comes with introducing new tech into the world. Since, I began my journey into the world of computer science, I've worked on numerous professional teams, working on code that has included frontend, backend, and internal tools to name a few. Besides keeping up on the latest tech and financial news, I like ultimate frisbee, Oregon in the Fall, and IPAs.
+# user_description: I'm a Software Engineer, graduating from the University of Oregon in December 2018. I've always had a passion for building and problem solving. Computer science has allowed me to continue this passion, combined with the feeling of accomplishment that comes with introducing new tech into the world. Since, I began my journey into the world of computer science, I've worked on numerous professional teams, working on code that has included frontend, backend, and internal tools to name a few. Besides keeping up on the latest tech and financial news, I like ultimate frisbee, Oregon in the Fall, and IPAs.
+user_description: I'm a software engineer, currently working at Amazon on the AWS Elastic Block Store (EBS) Replication team. Prior to this I designed, built, and maintained the Shadow testing infrastructure at Qualtrics. Through this, I had the experience to design scalable services in Golang, organize cross-team collaborations, and develop strong maintainable and extendable coding techniques. Outside of keeping up on the latest tech and financial news, I like ultimate frisbee, the North West in the Fall, and lagers. 
 user_title: Software Developer
 email: j.d.livni@gmail.com
 github_username:  Lebonesco
